@@ -8,8 +8,8 @@ A router forwarding table look up algorithm using binary tries to store and look
 
 ## reference
 - Inspired by below videos:  
-- https://www.youtube.com/watch?v=4MDI4DvxIQQ&t=3s  
-- https://youtu.be/G0IWn5f-B5s?t=763  
+-- https://www.youtube.com/watch?v=4MDI4DvxIQQ&t=3s  
+-- https://youtu.be/G0IWn5f-B5s?t=763  
 
 
 ## for more info
